@@ -1,0 +1,12 @@
+# Vidéos et sons générés par le script : jamais envoyés sur GitHub
+videos/
+*.mp4
+*.mov
+*.webm
+*.wav
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
